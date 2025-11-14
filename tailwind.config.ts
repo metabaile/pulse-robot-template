@@ -65,17 +65,17 @@ export default {
 				},
 				// Custom colors for Metabaile brand
 				pulse: {
-					"50": "hsl(174, 60%, 95%)",
-					"100": "hsl(174, 60%, 90%)",
-					"200": "hsl(174, 60%, 80%)",
-					"300": "hsl(174, 60%, 70%)",
-					"400": "hsl(174, 60%, 60%)",
-					"500": "hsl(174, 60%, 50%)",
-					"600": "hsl(174, 60%, 40%)",
-					"700": "hsl(174, 60%, 30%)",
-					"800": "hsl(174, 60%, 20%)",
-					"900": "hsl(174, 60%, 10%)",
-					"950": "hsl(174, 60%, 5%)",
+					"50": "hsl(186, 73%, 98%)",
+					"100": "hsl(186, 73%, 92%)",
+					"200": "hsl(186, 73%, 85%)",
+					"300": "hsl(186, 73%, 78%)",
+					"400": "hsl(186, 73%, 78%)",
+					"500": "hsl(186, 73%, 78%)",
+					"600": "hsl(186, 65%, 68%)",
+					"700": "hsl(186, 55%, 58%)",
+					"800": "hsl(186, 45%, 48%)",
+					"900": "hsl(186, 35%, 38%)",
+					"950": "hsl(186, 25%, 28%)",
 				},
 				turquoise: {
 					"50": "hsl(174, 60%, 95%)",
@@ -149,9 +149,9 @@ export default {
 				'float': 'float 6s ease-in-out infinite'
 			},
 			backgroundImage: {
-				'hero-gradient': 'linear-gradient(90deg, hsla(24, 100%, 83%, 1) 0%, hsla(341, 91%, 68%, 1) 100%)',
-				'hero-gradient-2': 'linear-gradient(90deg, hsla(39, 100%, 77%, 1) 0%, hsla(22, 90%, 57%, 1) 100%)',
-				'pulse-gradient': 'linear-gradient(180deg, rgba(249,115,22,0.8) 0%, rgba(249,115,22,0) 100%)',
+				'hero-gradient': 'linear-gradient(90deg, hsla(186, 73%, 78%, 1) 0%, hsla(174, 60%, 60%, 1) 100%)',
+				'hero-gradient-2': 'linear-gradient(90deg, hsla(186, 73%, 85%, 1) 0%, hsla(186, 73%, 78%, 1) 100%)',
+				'pulse-gradient': 'linear-gradient(180deg, hsla(186, 73%, 78%, 0.8) 0%, hsla(186, 73%, 78%, 0) 100%)',
 			},
 			fontFamily: {
 				'sans': ['Inter', 'sans-serif'],
