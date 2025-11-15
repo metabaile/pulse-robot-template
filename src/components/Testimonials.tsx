@@ -19,7 +19,7 @@ const testimonials: TestimonialProps[] = [{
   content: "Implementing Atlas in our fulfillment centers reduced workplace injuries by 40% while improving order accuracy. The learning capabilities are remarkable.",
   author: "Michael Rodriguez",
   role: "Director of Logistics, GlobalShip",
-  gradient: "from-indigo-900 via-turquoise-600 to-turquoise-400",
+  gradient: "from-indigo-900 via-purple-800 to-orange-500",
   backgroundImage: "/background-section2.png"
 }, {
   content: "Atlas adapted to our lab protocols faster than any system we've used. It's like having another researcher who never gets tired and maintains perfect precision.",
@@ -31,7 +31,7 @@ const testimonials: TestimonialProps[] = [{
   content: "As a mid-size business, we never thought advanced robotics would be accessible to us. Atlas changed that equation entirely with its versatility and ease of deployment.",
   author: "Jason Lee",
   role: "CEO, Innovative Solutions Inc.",
-  gradient: "from-turquoise-600 via-turquoise-400 to-blue-400",
+  gradient: "from-orange-600 via-red-500 to-purple-600",
   backgroundImage: "/background-section1.png"
 }];
 
