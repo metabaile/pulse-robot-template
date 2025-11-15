@@ -91,7 +91,7 @@ const Hero = () => {
       className="overflow-hidden relative bg-cover" 
       id="hero" 
       style={{
-        backgroundImage: 'url("/Header-background.webp")',
+        background: 'linear-gradient(135deg, #AEEAF2 0%, #D4F4F8 50%, #FFFFFF 100%)',
         backgroundPosition: 'center 30%', 
         padding: isMobile ? '100px 12px 40px' : '120px 20px 60px'
       }}
@@ -134,12 +134,12 @@ const Hero = () => {
                   backgroundColor: '#AEEAF2',
                   borderRadius: '1440px',
                   boxSizing: 'border-box',
-                  color: '#FFFFFF',
+                  color: '#000000',
                   cursor: 'pointer',
                   fontSize: '14px',
                   lineHeight: '20px',
                   padding: '16px 24px', // Slightly reduced padding for mobile
-                  border: '1px solid white',
+                  border: '1px solid #000000',
                 }}
               >
                 Request Access
